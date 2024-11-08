@@ -1,0 +1,40 @@
+.loan{
+  background-color: rgb(169, 122, 12);
+  padding: 30PX 50PX;
+  border-radius: 20PX;
+  color: white;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.form input{
+  width: 500PX;
+  margin: 10PX 0PX;
+  padding: 10PX;
+  border: none;
+}
+.form button{
+  margin-top: 30PX;
+  width: 200PX;
+  padding: 10PX 0PX;
+  background-color: rgb(166, 176, 183);
+  border: none;
+  color: #463b05;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 3PX;
+  font-size: 20PX;
+}
+.form button:hover{
+  background-color: rgb(110, 81, 12);
+  color: white;
+}
+.form select{
+  width: 510PX;
+  margin: 10PX 0PX;
+  padding: 10PX;
+  border: none;
+}

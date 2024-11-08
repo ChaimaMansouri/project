@@ -1,0 +1,20 @@
+.error{
+	
+  background-color: rgba(8, 9, 9, 0.501);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.Message{
+  color: red;
+  background-color: rgba(48, 38, 1, 0.824);
+  padding: 10PX 70PX;
+  border-radius: 20PX;
+}
